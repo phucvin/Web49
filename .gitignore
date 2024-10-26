@@ -7,7 +7,6 @@ miniwasm
 miniwasm.exe
 out.*
 test/bench/results.json
-test/core/*
 test/*.wasm
 *.core
 *.exe

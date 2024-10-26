@@ -1,0 +1,4 @@
+wasm spec test: invoke i32_load16_s pass: 0xFFFFFFFF
+wasm spec test: invoke i32_load16_s pass: 0xFFFFEF6E
+wasm spec test: invoke i32_load16_s pass: 0x0000002A
+wasm spec test: invoke i32_load16_s pass: 0x00003210

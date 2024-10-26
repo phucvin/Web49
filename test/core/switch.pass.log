@@ -1,0 +1,9 @@
+wasm spec test: invoke stmt pass: 0x00000000
+wasm spec test: invoke stmt pass: 0xFFFFFFFF
+wasm spec test: invoke stmt pass: 0xFFFFFFFE
+wasm spec test: invoke stmt pass: 0xFFFFFFFD
+wasm spec test: invoke stmt pass: 0x00000064
+wasm spec test: invoke stmt pass: 0x00000065
+wasm spec test: invoke stmt pass: 0x00000066
+wasm spec test: invoke stmt pass: 0x00000064
+wasm spec test: invoke stmt pass: 0x00000066

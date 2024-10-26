@@ -1,0 +1,8 @@
+wasm spec test: invoke add pass: 0x0000000000000002
+wasm spec test: invoke add pass: 0x0000000000000001
+wasm spec test: invoke add pass: 0xFFFFFFFFFFFFFFFE
+wasm spec test: invoke add pass: 0x0000000000000000
+wasm spec test: invoke add pass: 0x8000000000000000
+wasm spec test: invoke add pass: 0x7FFFFFFFFFFFFFFF
+wasm spec test: invoke add pass: 0x0000000000000000
+wasm spec test: invoke add pass: 0x0000000040000000

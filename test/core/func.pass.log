@@ -1,0 +1,2 @@
+wasm spec test: invoke f pass: 0x00000000
+wasm spec test: invoke signature-explicit-reused

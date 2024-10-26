@@ -1,0 +1,2 @@
+wasm spec test: invoke fac-expr pass: 0x619FB0907BC00000
+Segmentation fault (core dumped)

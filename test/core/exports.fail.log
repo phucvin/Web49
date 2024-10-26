@@ -1,0 +1,3 @@
+expected `(` at module of file
+wasm spec test: invoke e pass: 0x0000002B
+Segmentation fault (core dumped)

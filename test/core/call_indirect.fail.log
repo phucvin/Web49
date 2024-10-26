@@ -1,0 +1,3 @@
+wasm spec test: invoke type-i32 pass: 0x00000132
+no such opcode: table
+Illegal instruction (core dumped)

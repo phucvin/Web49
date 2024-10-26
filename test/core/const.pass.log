@@ -1,0 +1,300 @@
+wasm spec test: invoke f pass: 0x26800000
+wasm spec test: invoke f pass: 0xA6800000
+wasm spec test: invoke f pass: 0x26800001
+wasm spec test: invoke f pass: 0xA6800001
+wasm spec test: invoke f pass: 0x26800001
+wasm spec test: invoke f pass: 0xA6800001
+wasm spec test: invoke f pass: 0x26800001
+wasm spec test: invoke f pass: 0xA6800001
+wasm spec test: invoke f pass: 0x26800001
+wasm spec test: invoke f pass: 0xA6800001
+wasm spec test: invoke f pass: 0x26800001
+wasm spec test: invoke f pass: 0xA6800001
+wasm spec test: invoke f pass: 0x26800002
+wasm spec test: invoke f pass: 0xA6800002
+wasm spec test: invoke f pass: 0x26800002
+wasm spec test: invoke f pass: 0xA6800002
+wasm spec test: invoke f pass: 0x26800002
+wasm spec test: invoke f pass: 0xA6800002
+wasm spec test: invoke f pass: 0x26800002
+wasm spec test: invoke f pass: 0xA6800002
+wasm spec test: invoke f pass: 0x26800002
+wasm spec test: invoke f pass: 0xA6800002
+wasm spec test: invoke f pass: 0x26800002
+wasm spec test: invoke f pass: 0xA6800002
+wasm spec test: invoke f pass: 0x26800002
+wasm spec test: invoke f pass: 0xA6800002
+wasm spec test: invoke f pass: 0x26800003
+wasm spec test: invoke f pass: 0xA6800003
+wasm spec test: invoke f pass: 0x26800000
+wasm spec test: invoke f pass: 0xA6800000
+wasm spec test: invoke f pass: 0x26800001
+wasm spec test: invoke f pass: 0xA6800001
+wasm spec test: invoke f pass: 0x26800001
+wasm spec test: invoke f pass: 0xA6800001
+wasm spec test: invoke f pass: 0x26800001
+wasm spec test: invoke f pass: 0xA6800001
+wasm spec test: invoke f pass: 0x26800001
+wasm spec test: invoke f pass: 0xA6800001
+wasm spec test: invoke f pass: 0x26800001
+wasm spec test: invoke f pass: 0xA6800001
+wasm spec test: invoke f pass: 0x26800002
+wasm spec test: invoke f pass: 0xA6800002
+wasm spec test: invoke f pass: 0x26800002
+wasm spec test: invoke f pass: 0xA6800002
+wasm spec test: invoke f pass: 0x26800002
+wasm spec test: invoke f pass: 0xA6800002
+wasm spec test: invoke f pass: 0x26800002
+wasm spec test: invoke f pass: 0xA6800002
+wasm spec test: invoke f pass: 0x26800002
+wasm spec test: invoke f pass: 0xA6800002
+wasm spec test: invoke f pass: 0x26800003
+wasm spec test: invoke f pass: 0xA6800003
+wasm spec test: invoke f pass: 0x26800000
+wasm spec test: invoke f pass: 0xA6800000
+wasm spec test: invoke f pass: 0x26800001
+wasm spec test: invoke f pass: 0xA6800001
+wasm spec test: invoke f pass: 0x26800001
+wasm spec test: invoke f pass: 0xA6800001
+wasm spec test: invoke f pass: 0x26800002
+wasm spec test: invoke f pass: 0xA6800002
+wasm spec test: invoke f pass: 0x58800000
+wasm spec test: invoke f pass: 0xD8800000
+wasm spec test: invoke f pass: 0x58800001
+wasm spec test: invoke f pass: 0xD8800001
+wasm spec test: invoke f pass: 0x58800001
+wasm spec test: invoke f pass: 0xD8800001
+wasm spec test: invoke f pass: 0x58800001
+wasm spec test: invoke f pass: 0xD8800001
+wasm spec test: invoke f pass: 0x58800001
+wasm spec test: invoke f pass: 0xD8800001
+wasm spec test: invoke f pass: 0x58800001
+wasm spec test: invoke f pass: 0xD8800001
+wasm spec test: invoke f pass: 0x58800002
+wasm spec test: invoke f pass: 0xD8800002
+wasm spec test: invoke f pass: 0x58800002
+wasm spec test: invoke f pass: 0xD8800002
+wasm spec test: invoke f pass: 0x58800002
+wasm spec test: invoke f pass: 0xD8800002
+wasm spec test: invoke f pass: 0x58800002
+wasm spec test: invoke f pass: 0xD8800002
+wasm spec test: invoke f pass: 0x58800002
+wasm spec test: invoke f pass: 0xD8800002
+wasm spec test: invoke f pass: 0x58800002
+wasm spec test: invoke f pass: 0xD8800002
+wasm spec test: invoke f pass: 0x58800002
+wasm spec test: invoke f pass: 0xD8800002
+wasm spec test: invoke f pass: 0x58800003
+wasm spec test: invoke f pass: 0xD8800003
+wasm spec test: invoke f fail: because got 0x04000000 but wanted 0x58800000
+wasm spec test: invoke f fail: because got 0xFC000000 but wanted 0xD8800000
+wasm spec test: invoke f fail: because got 0x04000001 but wanted 0x58800001
+wasm spec test: invoke f fail: because got 0xFBFFFFFF but wanted 0xD8800001
+wasm spec test: invoke f fail: because got 0x07FFFFFF but wanted 0x58800001
+wasm spec test: invoke f fail: because got 0xF8000001 but wanted 0xD8800001
+wasm spec test: invoke f fail: because got 0x08000000 but wanted 0x58800001
+wasm spec test: invoke f fail: because got 0xF8000000 but wanted 0xD8800001
+wasm spec test: invoke f fail: because got 0x08000001 but wanted 0x58800001
+wasm spec test: invoke f fail: because got 0xF7FFFFFF but wanted 0xD8800001
+wasm spec test: invoke f fail: because got 0x0BFFFFFF but wanted 0x58800001
+wasm spec test: invoke f fail: because got 0xF4000001 but wanted 0xD8800001
+wasm spec test: invoke f fail: because got 0x0C000000 but wanted 0x58800002
+wasm spec test: invoke f fail: because got 0xF4000000 but wanted 0xD8800002
+wasm spec test: invoke f fail: because got 0x04000000 but wanted 0x58800000
+wasm spec test: invoke f fail: because got 0xFC000000 but wanted 0xD8800000
+wasm spec test: invoke f fail: because got 0x04000001 but wanted 0x58800001
+wasm spec test: invoke f fail: because got 0xFBFFFFFF but wanted 0xD8800001
+wasm spec test: invoke f fail: because got 0x0BFFFFFF but wanted 0x58800001
+wasm spec test: invoke f fail: because got 0xF4000001 but wanted 0xD8800001
+wasm spec test: invoke f fail: because got 0x0C000000 but wanted 0x58800002
+wasm spec test: invoke f fail: because got 0xF4000000 but wanted 0xD8800002
+wasm spec test: invoke f pass: 0x00000000
+wasm spec test: invoke f pass: 0x80000000
+wasm spec test: invoke f pass: 0x00000001
+wasm spec test: invoke f pass: 0x80000001
+wasm spec test: invoke f pass: 0x00000001
+wasm spec test: invoke f pass: 0x80000001
+wasm spec test: invoke f pass: 0x00000001
+wasm spec test: invoke f pass: 0x80000001
+wasm spec test: invoke f pass: 0x00000001
+wasm spec test: invoke f pass: 0x80000001
+wasm spec test: invoke f pass: 0x00000001
+wasm spec test: invoke f pass: 0x80000001
+wasm spec test: invoke f pass: 0x00000002
+wasm spec test: invoke f pass: 0x80000002
+wasm spec test: invoke f pass: 0x00000002
+wasm spec test: invoke f pass: 0x80000002
+wasm spec test: invoke f pass: 0x00000002
+wasm spec test: invoke f pass: 0x80000002
+wasm spec test: invoke f pass: 0x00000002
+wasm spec test: invoke f pass: 0x80000002
+wasm spec test: invoke f pass: 0x00000002
+wasm spec test: invoke f pass: 0x80000002
+wasm spec test: invoke f pass: 0x00000002
+wasm spec test: invoke f pass: 0x80000002
+wasm spec test: invoke f pass: 0x00000002
+wasm spec test: invoke f pass: 0x80000002
+wasm spec test: invoke f pass: 0x00000003
+wasm spec test: invoke f pass: 0x80000003
+wasm spec test: invoke f pass: 0x7F7FFFFF
+wasm spec test: invoke f pass: 0xFF7FFFFF
+wasm spec test: invoke f pass: 0x7F7FFFFF
+wasm spec test: invoke f pass: 0xFF7FFFFF
+wasm spec test: invoke f pass: 0x7F7FFFFF
+wasm spec test: invoke f pass: 0xFF7FFFFF
+wasm spec test: invoke f pass: 0x1A70000000000000
+wasm spec test: invoke f pass: 0x9A70000000000000
+wasm spec test: invoke f pass: 0x1A70000000000001
+wasm spec test: invoke f pass: 0x9A70000000000001
+wasm spec test: invoke f pass: 0x1A70000000000001
+wasm spec test: invoke f pass: 0x9A70000000000001
+wasm spec test: invoke f pass: 0x1A70000000000001
+wasm spec test: invoke f pass: 0x9A70000000000001
+wasm spec test: invoke f pass: 0x1A70000000000001
+wasm spec test: invoke f pass: 0x9A70000000000001
+wasm spec test: invoke f pass: 0x1A70000000000001
+wasm spec test: invoke f pass: 0x9A70000000000001
+wasm spec test: invoke f pass: 0x1A70000000000002
+wasm spec test: invoke f pass: 0x9A70000000000002
+wasm spec test: invoke f pass: 0x1A70000000000002
+wasm spec test: invoke f pass: 0x9A70000000000002
+wasm spec test: invoke f pass: 0x1A70000000000002
+wasm spec test: invoke f pass: 0x9A70000000000002
+wasm spec test: invoke f pass: 0x1A70000000000002
+wasm spec test: invoke f pass: 0x9A70000000000002
+wasm spec test: invoke f pass: 0x1A70000000000002
+wasm spec test: invoke f pass: 0x9A70000000000002
+wasm spec test: invoke f pass: 0x1A70000000000002
+wasm spec test: invoke f pass: 0x9A70000000000002
+wasm spec test: invoke f pass: 0x1A70000000000003
+wasm spec test: invoke f pass: 0x9A70000000000003
+wasm spec test: invoke f pass: 0x1A70000000000000
+wasm spec test: invoke f pass: 0x9A70000000000000
+wasm spec test: invoke f pass: 0x1A70000000000001
+wasm spec test: invoke f pass: 0x9A70000000000001
+wasm spec test: invoke f pass: 0x1A70000000000001
+wasm spec test: invoke f pass: 0x9A70000000000001
+wasm spec test: invoke f pass: 0x1A70000000000001
+wasm spec test: invoke f pass: 0x9A70000000000001
+wasm spec test: invoke f pass: 0x1A70000000000001
+wasm spec test: invoke f pass: 0x9A70000000000001
+wasm spec test: invoke f pass: 0x1A70000000000001
+wasm spec test: invoke f pass: 0x9A70000000000001
+wasm spec test: invoke f pass: 0x1A70000000000002
+wasm spec test: invoke f pass: 0x9A70000000000002
+wasm spec test: invoke f pass: 0x1A70000000000002
+wasm spec test: invoke f pass: 0x9A70000000000002
+wasm spec test: invoke f pass: 0x1A70000000000002
+wasm spec test: invoke f pass: 0x9A70000000000002
+wasm spec test: invoke f pass: 0x1A70000000000002
+wasm spec test: invoke f pass: 0x9A70000000000002
+wasm spec test: invoke f pass: 0x1A70000000000002
+wasm spec test: invoke f pass: 0x9A70000000000002
+wasm spec test: invoke f pass: 0x1A70000000000002
+wasm spec test: invoke f pass: 0x9A70000000000002
+wasm spec test: invoke f pass: 0x1A70000000000003
+wasm spec test: invoke f pass: 0x9A70000000000003
+wasm spec test: invoke f pass: 0x7E60000000000000
+wasm spec test: invoke f pass: 0xFE60000000000000
+wasm spec test: invoke f pass: 0x7E60000000000001
+wasm spec test: invoke f pass: 0xFE60000000000001
+wasm spec test: invoke f pass: 0x7E60000000000001
+wasm spec test: invoke f pass: 0xFE60000000000001
+wasm spec test: invoke f pass: 0x7E60000000000002
+wasm spec test: invoke f pass: 0xFE60000000000002
+wasm spec test: invoke f pass: 0x6570000000000000
+wasm spec test: invoke f pass: 0xE570000000000000
+wasm spec test: invoke f pass: 0x6570000000000001
+wasm spec test: invoke f pass: 0xE570000000000001
+wasm spec test: invoke f pass: 0x6570000000000001
+wasm spec test: invoke f pass: 0xE570000000000001
+wasm spec test: invoke f pass: 0x6570000000000001
+wasm spec test: invoke f pass: 0xE570000000000001
+wasm spec test: invoke f pass: 0x6570000000000001
+wasm spec test: invoke f pass: 0xE570000000000001
+wasm spec test: invoke f pass: 0x6570000000000001
+wasm spec test: invoke f pass: 0xE570000000000001
+wasm spec test: invoke f pass: 0x6570000000000002
+wasm spec test: invoke f pass: 0xE570000000000002
+wasm spec test: invoke f pass: 0x6570000000000002
+wasm spec test: invoke f pass: 0xE570000000000002
+wasm spec test: invoke f pass: 0x6570000000000002
+wasm spec test: invoke f pass: 0xE570000000000002
+wasm spec test: invoke f pass: 0x6570000000000002
+wasm spec test: invoke f pass: 0xE570000000000002
+wasm spec test: invoke f pass: 0x6570000000000002
+wasm spec test: invoke f pass: 0xE570000000000002
+wasm spec test: invoke f pass: 0x6570000000000002
+wasm spec test: invoke f pass: 0xE570000000000002
+wasm spec test: invoke f pass: 0x6570000000000002
+wasm spec test: invoke f pass: 0xE570000000000002
+wasm spec test: invoke f pass: 0x6570000000000003
+wasm spec test: invoke f pass: 0xE570000000000003
+wasm spec test: invoke f fail: because got 0x0000100000000000 but wanted 0x4600000000000000
+wasm spec test: invoke f fail: because got 0xFFFFF00000000000 but wanted 0xC600000000000000
+wasm spec test: invoke f fail: because got 0x0000100000000001 but wanted 0x4600000000000001
+wasm spec test: invoke f fail: because got 0xFFFFEFFFFFFFFFFF but wanted 0xC600000000000001
+wasm spec test: invoke f fail: because got 0x00001FFFFFFFFFFF but wanted 0x4600000000000001
+wasm spec test: invoke f fail: because got 0xFFFFE00000000001 but wanted 0xC600000000000001
+wasm spec test: invoke f fail: because got 0x0000200000000000 but wanted 0x4600000000000001
+wasm spec test: invoke f fail: because got 0xFFFFE00000000000 but wanted 0xC600000000000001
+wasm spec test: invoke f fail: because got 0x0000200000000001 but wanted 0x4600000000000001
+wasm spec test: invoke f fail: because got 0xFFFFDFFFFFFFFFFF but wanted 0xC600000000000001
+wasm spec test: invoke f fail: because got 0x00002FFFFFFFFFFF but wanted 0x4600000000000001
+wasm spec test: invoke f fail: because got 0xFFFFD00000000001 but wanted 0xC600000000000001
+wasm spec test: invoke f fail: because got 0x0000300000000000 but wanted 0x4600000000000002
+wasm spec test: invoke f fail: because got 0xFFFFD00000000000 but wanted 0xC600000000000002
+wasm spec test: invoke f fail: because got 0x0000300000000001 but wanted 0x4600000000000002
+wasm spec test: invoke f fail: because got 0xFFFFCFFFFFFFFFFF but wanted 0xC600000000000002
+wasm spec test: invoke f fail: because got 0x00003FFFFFFFFFFF but wanted 0x4600000000000002
+wasm spec test: invoke f fail: because got 0xFFFFC00000000001 but wanted 0xC600000000000002
+wasm spec test: invoke f fail: because got 0x0000400000000000 but wanted 0x4600000000000002
+wasm spec test: invoke f fail: because got 0xFFFFC00000000000 but wanted 0xC600000000000002
+wasm spec test: invoke f fail: because got 0x0000400000000001 but wanted 0x4600000000000002
+wasm spec test: invoke f fail: because got 0xFFFFBFFFFFFFFFFF but wanted 0xC600000000000002
+wasm spec test: invoke f fail: because got 0x00004FFFFFFFFFFF but wanted 0x4600000000000002
+wasm spec test: invoke f fail: because got 0xFFFFB00000000001 but wanted 0xC600000000000002
+wasm spec test: invoke f fail: because got 0x0000500000000000 but wanted 0x4600000000000002
+wasm spec test: invoke f fail: because got 0xFFFFB00000000000 but wanted 0xC600000000000002
+wasm spec test: invoke f fail: because got 0x0000500000000001 but wanted 0x4600000000000003
+wasm spec test: invoke f fail: because got 0xFFFFAFFFFFFFFFFF but wanted 0xC600000000000003
+wasm spec test: invoke f fail: because got 0x1000000000000080 but wanted 0x43B0000000000000
+wasm spec test: invoke f fail: because got 0xEFFFFFFFFFFFFF80 but wanted 0xC3B0000000000000
+wasm spec test: invoke f fail: because got 0x1000000000000081 but wanted 0x43B0000000000001
+wasm spec test: invoke f fail: because got 0xEFFFFFFFFFFFFF7F but wanted 0xC3B0000000000001
+wasm spec test: invoke f fail: because got 0x100000000000017F but wanted 0x43B0000000000001
+wasm spec test: invoke f fail: because got 0xEFFFFFFFFFFFFE81 but wanted 0xC3B0000000000001
+wasm spec test: invoke f fail: because got 0x1000000000000180 but wanted 0x43B0000000000002
+wasm spec test: invoke f fail: because got 0xEFFFFFFFFFFFFE80 but wanted 0xC3B0000000000002
+wasm spec test: invoke f pass: 0x0000000000000000
+wasm spec test: invoke f pass: 0x8000000000000000
+wasm spec test: invoke f pass: 0x0000000000000001
+wasm spec test: invoke f pass: 0x8000000000000001
+wasm spec test: invoke f pass: 0x0000000000000001
+wasm spec test: invoke f pass: 0x8000000000000001
+wasm spec test: invoke f pass: 0x0000000000000001
+wasm spec test: invoke f pass: 0x8000000000000001
+wasm spec test: invoke f pass: 0x0000000000000001
+wasm spec test: invoke f pass: 0x8000000000000001
+wasm spec test: invoke f pass: 0x0000000000000001
+wasm spec test: invoke f pass: 0x8000000000000001
+wasm spec test: invoke f pass: 0x0000000000000002
+wasm spec test: invoke f pass: 0x8000000000000002
+wasm spec test: invoke f pass: 0x0000000000000002
+wasm spec test: invoke f pass: 0x8000000000000002
+wasm spec test: invoke f pass: 0x0000000000000002
+wasm spec test: invoke f pass: 0x8000000000000002
+wasm spec test: invoke f pass: 0x0000000000000002
+wasm spec test: invoke f pass: 0x8000000000000002
+wasm spec test: invoke f pass: 0x0000000000000002
+wasm spec test: invoke f pass: 0x8000000000000002
+wasm spec test: invoke f pass: 0x0000000000000002
+wasm spec test: invoke f pass: 0x8000000000000002
+wasm spec test: invoke f pass: 0x0000000000000002
+wasm spec test: invoke f pass: 0x8000000000000002
+wasm spec test: invoke f pass: 0x0010000000000003
+wasm spec test: invoke f pass: 0x8010000000000003
+wasm spec test: invoke f pass: 0x7FEFFFFFFFFFFFFF
+wasm spec test: invoke f pass: 0xFFEFFFFFFFFFFFFF
+wasm spec test: invoke f pass: 0x7FEFFFFFFFFFFFFF
+wasm spec test: invoke f pass: 0xFFEFFFFFFFFFFFFF

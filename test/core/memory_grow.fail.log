@@ -1,0 +1,11 @@
+wasm spec test: invoke load_at_zero pass: 0x00000000
+wasm spec test: invoke load_at_zero fail: because (actual return value) 0x0 != 0x2 (expected return value)
+wasm spec test: invoke load_at_zero fail: because (actual return value) 0x0 != 0x2 (expected return value)
+wasm spec test: invoke load_at_zero fail: because (actual return value) 0x0 != 0x2 (expected return value)
+wasm spec test: invoke grow pass: 0x00000000
+wasm spec test: invoke grow pass: 0x00000000
+wasm spec test: invoke grow pass: 0x00000001
+wasm spec test: invoke grow pass: 0x00000001
+wasm spec test: invoke grow pass: 0x00000003
+wasm spec test: invoke grow fail: because (actual return value) 0x323 != 0xFFFFFFFF (expected return value)
+Segmentation fault (core dumped)

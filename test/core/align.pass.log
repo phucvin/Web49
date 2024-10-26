@@ -1,0 +1,4 @@
+wasm spec test: invoke f32_align_switch pass: 0x41200000
+wasm spec test: invoke f32_align_switch pass: 0x41200000
+wasm spec test: invoke f32_align_switch pass: 0x41200000
+wasm spec test: invoke f32_align_switch pass: 0x41200000

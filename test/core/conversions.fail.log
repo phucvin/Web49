@@ -1,0 +1,2 @@
+unexpected word: (i32.trunc_sat_f32_s ...)
+Illegal instruction (core dumped)

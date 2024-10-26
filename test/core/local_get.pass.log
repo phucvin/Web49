@@ -1,0 +1,1 @@
+wasm spec test: invoke type-local-i32 pass: 0x00000000

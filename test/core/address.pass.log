@@ -1,0 +1,12 @@
+wasm spec test: invoke 8u_good1 pass: 0x00000061
+wasm spec test: invoke 8u_good1 pass: 0x00000000
+wasm spec test: invoke 8u_good1 pass: 0x00000000
+wasm spec test: invoke 8u_good1 pass: 0x0000000000000061
+wasm spec test: invoke 8u_good1 pass: 0x0000000000000000
+wasm spec test: invoke 8u_good1 pass: 0x0000000000000000
+wasm spec test: invoke 32_good1 pass: 0x00000000
+wasm spec test: invoke 32_good1 pass: 0x00000000
+wasm spec test: invoke 32_good1 pass: 0x00000000
+wasm spec test: invoke 64_good1 pass: 0x0000000000000000
+wasm spec test: invoke 64_good1 pass: 0x0000000000000000
+wasm spec test: invoke 64_good1 pass: 0x0000000000000000
